@@ -756,11 +756,6 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/irons_spellbooks-1.21.1-3.16.0-patched.jar"
     },
     {
-      "Path": "mods/irons_spellbooks-1.21.1-3.16.0.jar",
-      "Hash": "a57c77992ac86290c9bbbd58931489c8",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/irons_spellbooks-1.21.1-3.16.0.jar"
-    },
-    {
       "Path": "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
       "Hash": "80f9186d25b02ebbfa5773416f5da410",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/Jade-1.21.1-NeoForge-15.10.5.jar"
@@ -1007,7 +1002,7 @@
     },
     {
       "Path": "mods/traveloptics-4.4.0.1-1.21.1-patched.jar",
-      "Hash": "46046cb729e53a5e139501630cfb7eaf",
+      "Hash": "876893301ac90eba2b49ba3de90f91c2",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/traveloptics-4.4.0.1-1.21.1-patched.jar"
     },
     {

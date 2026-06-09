@@ -691,11 +691,6 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/irons_lib-1.21.1-1.0.2.jar"
     },
     {
-      "Path": "mods/irons_spellbooks-1.21.1-3.16.0.jar",
-      "Hash": "a57c77992ac86290c9bbbd58931489c8",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/irons_spellbooks-1.21.1-3.16.0.jar"
-    },
-    {
       "Path": "mods/kotlinforforge-5.11.0-all.jar",
       "Hash": "cec55e8799f1ea03bb36df748c575b30",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/kotlinforforge-5.11.0-all.jar"
