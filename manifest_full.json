@@ -751,6 +751,11 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/irons_lib-1.21.1-1.0.2.jar"
     },
     {
+      "Path": "mods/irons_spellbooks-1.21.1-3.16.0-patched.jar",
+      "Hash": "f3997f276a1fd5566f864296f1916782",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/irons_spellbooks-1.21.1-3.16.0-patched.jar"
+    },
+    {
       "Path": "mods/irons_spellbooks-1.21.1-3.16.0.jar",
       "Hash": "a57c77992ac86290c9bbbd58931489c8",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/irons_spellbooks-1.21.1-3.16.0.jar"
@@ -1001,9 +1006,9 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/travelersbackpack-neoforge-1.21.1-10.1.36.jar"
     },
     {
-      "Path": "mods/traveloptics-4.4.0.1-1.21.1.jar",
-      "Hash": "117c354a3b301f46a671690cee5e79b1",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/traveloptics-4.4.0.1-1.21.1.jar"
+      "Path": "mods/traveloptics-4.4.0.1-1.21.1-patched.jar",
+      "Hash": "46046cb729e53a5e139501630cfb7eaf",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/traveloptics-4.4.0.1-1.21.1-patched.jar"
     },
     {
       "Path": "mods/valarian_conquest-4.2.1.1-neoforge-1.21.1.jar",

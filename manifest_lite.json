@@ -551,11 +551,6 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar"
     },
     {
-      "Path": "mods/cataclysm_spellbooks-1.1.11-1.21.jar",
-      "Hash": "db6a2f520ffbc128b58f82d5ac192d3e",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/cataclysm_spellbooks-1.1.11-1.21.jar"
-    },
-    {
       "Path": "mods/chipped-neoforge-1.21.1-4.0.2.jar",
       "Hash": "f8fd65f72a903abd0bcbd3bf6bc09524",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/chipped-neoforge-1.21.1-4.0.2.jar"
@@ -889,11 +884,6 @@
       "Path": "mods/travelersbackpack-neoforge-1.21.1-10.1.36.jar",
       "Hash": "a9853f9d1eccacf66d682be47941fe1f",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/travelersbackpack-neoforge-1.21.1-10.1.36.jar"
-    },
-    {
-      "Path": "mods/traveloptics-4.4.0.1-1.21.1.jar",
-      "Hash": "117c354a3b301f46a671690cee5e79b1",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/traveloptics-4.4.0.1-1.21.1.jar"
     },
     {
       "Path": "mods/valarian_conquest-4.2.1.1-neoforge-1.21.1.jar",
