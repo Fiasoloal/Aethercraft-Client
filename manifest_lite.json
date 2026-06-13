@@ -1696,6 +1696,11 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/WildfireGender/client.toml"
     },
     {
+      "Path": "global_packs/required_resourcepacks/AethercraftRP.zip",
+      "Hash": "7e97c0efe299e7d406921ee5f933ef0c",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resourcepacks/AethercraftRP.zip"
+    },
+    {
       "Path": "versions/neoforge-21.1.233/neoforge-21.1.233.jar",
       "Hash": "0b90a83eb9910468c60152f6594b9271",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/versions/neoforge-21.1.233/neoforge-21.1.233.jar"

@@ -491,11 +491,6 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/additionalentityattributes-neoforge-2.0.2%2B1.21.1.jar"
     },
     {
-      "Path": "mods/AethercraftUI-1.0.jar",
-      "Hash": "19029ea2e1e9322bdbe55df0b9a7e675",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/AethercraftUI-1.0.jar"
-    },
-    {
       "Path": "mods/alcocraftplus-1.21.1-2.1.0-neoforge.jar",
       "Hash": "e8620c3bc509c9de9cbc1c0175ef48f0",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/alcocraftplus-1.21.1-2.1.0-neoforge.jar"
@@ -719,6 +714,11 @@
       "Path": "mods/geckolib-neoforge-1.21.1-4.8.4.jar",
       "Hash": "f68322025b603faaaaa5a1b3c52dc2ae",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/geckolib-neoforge-1.21.1-4.8.4.jar"
+    },
+    {
+      "Path": "mods/globalpacks-neoforge-1.21.1-21.0.6.jar",
+      "Hash": "8383425edbee77f7614b4e618e596f98",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/globalpacks-neoforge-1.21.1-21.0.6.jar"
     },
     {
       "Path": "mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
@@ -1824,6 +1824,11 @@
       "Path": "config/WildfireGender/client.toml",
       "Hash": "e46b566d4ca130ef8488c6f0ef4c4019",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/WildfireGender/client.toml"
+    },
+    {
+      "Path": "global_packs/required_resourcepacks/AethercraftRP.zip",
+      "Hash": "7e97c0efe299e7d406921ee5f933ef0c",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resourcepacks/AethercraftRP.zip"
     },
     {
       "Path": "versions/neoforge-21.1.233/neoforge-21.1.233.jar",
