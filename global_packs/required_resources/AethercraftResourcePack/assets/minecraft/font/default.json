@@ -1,0 +1,121 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/vip.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uE001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/vipplus.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uE002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/supervisor_chat.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uE003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chief_adm_chat.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uE004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/admin_chat.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uE005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/senior_helper_chat.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uE006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/helper_chat.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\uE007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/supervisor.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uE011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/chief_adm.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uE012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/admin.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uE013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/senior_helper.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uE014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/helper.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\uE015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/logo.png",
+      "ascent": 12,
+      "height": 18,
+      "chars": [
+        "\uE020"
+      ]
+    }
+  ]
+}

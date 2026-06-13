@@ -716,6 +716,11 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/geckolib-neoforge-1.21.1-4.8.4.jar"
     },
     {
+      "Path": "mods/globalpacks-neoforge-1.21.1-21.0.6.jar",
+      "Hash": "8383425edbee77f7614b4e618e596f98",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/globalpacks-neoforge-1.21.1-21.0.6.jar"
+    },
+    {
       "Path": "mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
       "Hash": "0f875f5741a6fad6f1c4f6fdbe5f538b",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
@@ -1039,11 +1044,6 @@
       "Path": "mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
       "Hash": "0b76c5c6d2e7598a801f159844f7bfab",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar"
-    },
-    {
-      "Path": "resourcepacks/AethercraftRP.zip",
-      "Hash": "7e97c0efe299e7d406921ee5f933ef0c",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/resourcepacks/AethercraftRP.zip"
     },
     {
       "Path": "config/alexscaves_biome_generation/.version",
@@ -2016,6 +2016,11 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/xaero/world-map/common.cfg"
     },
     {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/pack.mcmeta",
+      "Hash": "366493301d21b947c09abc5db0f47272",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/pack.mcmeta"
+    },
+    {
       "Path": "config/xaero/lib/profiles/default.cfg",
       "Hash": "e6a2491cfa99c4163942c19eb7b4c489",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/xaero/lib/profiles/default.cfg"
@@ -2506,6 +2511,641 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/libraries/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
     },
     {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/font/default.json",
+      "Hash": "3f5cb12fe19ad8a8b35451330eb322e5",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/font/default.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/af_za.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/af_za.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ar_sa.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ar_sa.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ast_es.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ast_es.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/az_az.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/az_az.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/bar.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/bar.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ba_ru.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ba_ru.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/be_by.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/be_by.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/bg_bg.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/bg_bg.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/brb.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/brb.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/br_fr.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/br_fr.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/bs_ba.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/bs_ba.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ca_es.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ca_es.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/cs_cz.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/cs_cz.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/cy_gb.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/cy_gb.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/da_dk.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/da_dk.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/de_at.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/de_at.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/de_ch.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/de_ch.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/de_de.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/de_de.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/el_gr.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/el_gr.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/enp.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/enp.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/enws.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/enws.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_au.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_au.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_ca.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_ca.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_gb.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_gb.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_nz.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_nz.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_pt.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_pt.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_ud.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_ud.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_us.json",
+      "Hash": "76dfe02bc5e4e6429813b7d286b788bc",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/en_us.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/eo_uy.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/eo_uy.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/esan.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/esan.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_ar.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_ar.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_cl.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_cl.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_ec.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_ec.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_es.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_es.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_mx.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_mx.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_uy.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_uy.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_ve.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/es_ve.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/et_ee.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/et_ee.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/eu_es.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/eu_es.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fa_ir.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fa_ir.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fil_ph.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fil_ph.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fi_fi.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fi_fi.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fo_fo.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fo_fo.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fra_de.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fra_de.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fr_ca.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fr_ca.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fr_fr.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fr_fr.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fur_it.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fur_it.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fy_nl.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/fy_nl.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ga_ie.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ga_ie.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/gd_gb.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/gd_gb.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/gl_es.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/gl_es.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/haw_us.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/haw_us.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/he_il.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/he_il.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/hi_in.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/hi_in.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/hr_hr.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/hr_hr.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/hu_hu.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/hu_hu.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/hy_am.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/hy_am.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/id_id.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/id_id.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ig_ng.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ig_ng.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/io_en.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/io_en.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/isv.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/isv.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/is_is.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/is_is.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/it_it.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/it_it.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ja_jp.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ja_jp.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/jbo_en.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/jbo_en.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ka_ge.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ka_ge.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/kk_kz.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/kk_kz.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/kn_in.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/kn_in.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ko_kr.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ko_kr.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ksh.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ksh.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/kw_gb.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/kw_gb.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ky_kg.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ky_kg.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/la_la.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/la_la.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/lb_lu.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/lb_lu.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/li_li.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/li_li.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/lmo.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/lmo.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/lo_la.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/lo_la.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/lt_lt.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/lt_lt.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/lv_lv.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/lv_lv.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/mk_mk.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/mk_mk.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/mn_mn.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/mn_mn.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ms_my.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ms_my.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/mt_mt.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/mt_mt.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/nah.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/nah.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/nds_de.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/nds_de.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/nl_be.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/nl_be.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/nl_nl.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/nl_nl.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/nn_no.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/nn_no.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/no_no.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/no_no.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/oc_fr.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/oc_fr.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ovd.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ovd.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/pl_pl.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/pl_pl.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/pt_br.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/pt_br.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/pt_pt.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/pt_pt.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/qya_aa.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/qya_aa.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ro_ro.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ro_ro.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/rpr.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/rpr.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ru_ru.json",
+      "Hash": "76dfe02bc5e4e6429813b7d286b788bc",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ru_ru.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ry_ua.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ry_ua.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sah_sak.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sah_sak.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/se_no.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/se_no.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sk_sk.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sk_sk.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sl_si.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sl_si.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/som_so.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/som_so.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sq_al.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sq_al.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sr_sp.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sr_sp.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sv_se.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sv_se.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sxu.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/sxu.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/szl.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/szl.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ta_in.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/ta_in.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/th_th.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/th_th.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/tlh_aa.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/tlh_aa.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/tl_ph.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/tl_ph.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/tok.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/tok.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/tr_tr.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/tr_tr.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/tt_ru.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/tt_ru.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/uk_ua.json",
+      "Hash": "76dfe02bc5e4e6429813b7d286b788bc",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/uk_ua.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/val_es.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/val_es.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/vec_it.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/vec_it.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/vi_vn.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/vi_vn.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/yi_de.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/yi_de.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/yo_ng.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/yo_ng.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/zh_cn.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/zh_cn.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/zh_hk.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/zh_hk.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/zh_tw.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/zh_tw.json"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/zlm_arab.json",
+      "Hash": "c0e16d59fe9467fc82ce762a0ce3f8a3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/lang/zlm_arab.json"
+    },
+    {
       "Path": "libraries/com/electronwill/night-config/core/3.8.3/core-3.8.3.jar",
       "Hash": "a69db71d5c9c274ff08f175d7c12cb1a",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/libraries/com/electronwill/night-config/core/3.8.3/core-3.8.3.jar"
@@ -2699,6 +3339,71 @@
       "Path": "libraries/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar",
       "Hash": "62498ef324bdab15f407d703f7d78d19",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/libraries/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/admin.png",
+      "Hash": "9acad8c12277bede4ee58330374f0fc4",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/admin.png"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/admin_chat.png",
+      "Hash": "3a47445ce0e5c0b03cb464051613fe99",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/admin_chat.png"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/chief_adm.png",
+      "Hash": "0b64cb2cd774a545e79179d6c18a76d2",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/chief_adm.png"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/chief_adm_chat.png",
+      "Hash": "9eb95270c6b39037eca176cf7fe41ef5",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/chief_adm_chat.png"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/helper.png",
+      "Hash": "8ec18f916673f85ac7991e04cd0a0c93",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/helper.png"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/helper_chat.png",
+      "Hash": "92699195d77df5f35513cffef13522d3",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/helper_chat.png"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/logo.png",
+      "Hash": "ff23367b523d53ec4800f4f539d97145",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/logo.png"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/senior_helper.png",
+      "Hash": "6e083941e9b7a8629831782b6ecd41d8",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/senior_helper.png"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/senior_helper_chat.png",
+      "Hash": "33aa7a4ed36465e3560c5c920fe11261",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/senior_helper_chat.png"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/supervisor.png",
+      "Hash": "d73436ed88caa8d8378e86ad074e9efa",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/supervisor.png"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/supervisor_chat.png",
+      "Hash": "8443608892b95e85632105ff093accf0",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/supervisor_chat.png"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/vip.png",
+      "Hash": "85f32ec9b5e062bb22bbe2c80fca43d2",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/vip.png"
+    },
+    {
+      "Path": "global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/vipplus.png",
+      "Hash": "29b119102277cfef6b63ce39a5dbca56",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/AethercraftResourcePack/assets/minecraft/textures/font/vipplus.png"
     },
     {
       "Path": "libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
