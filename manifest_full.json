@@ -491,6 +491,11 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/additionalentityattributes-neoforge-2.0.2%2B1.21.1.jar"
     },
     {
+      "Path": "mods/AethercraftUI-1.0.jar",
+      "Hash": "69ba8f00612b1857de8e661f887e81d8",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/AethercraftUI-1.0.jar"
+    },
+    {
       "Path": "mods/alcocraftplus-1.21.1-2.1.0-neoforge.jar",
       "Hash": "e8620c3bc509c9de9cbc1c0175ef48f0",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/alcocraftplus-1.21.1-2.1.0-neoforge.jar"
