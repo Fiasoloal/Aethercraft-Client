@@ -491,9 +491,9 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/additionalentityattributes-neoforge-2.0.2%2B1.21.1.jar"
     },
     {
-      "Path": "mods/alcocraftplus-1.21.1-2.1.0-neoforge.jar",
-      "Hash": "e8620c3bc509c9de9cbc1c0175ef48f0",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/alcocraftplus-1.21.1-2.1.0-neoforge.jar"
+      "Path": "mods/alcocraftplus-1.21.1-2.1.2-neoforge.jar",
+      "Hash": "9f67f906aa0a9216b9cf2f7db17c596f",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/alcocraftplus-1.21.1-2.1.2-neoforge.jar"
     },
     {
       "Path": "mods/alexsmobs-1.22.17.jar",
@@ -541,9 +541,9 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/athena-neoforge-1.21.1-4.0.6.jar"
     },
     {
-      "Path": "mods/azurelib-neo-1.21.1-3.1.8.jar",
-      "Hash": "57dd803ed9d4a4b9537aa0187ae1fd47",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/azurelib-neo-1.21.1-3.1.8.jar"
+      "Path": "mods/azurelib-neo-1.21.1-3.1.10.jar",
+      "Hash": "1afd3d8e57cec6e49829ac65da2a0015",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/azurelib-neo-1.21.1-3.1.10.jar"
     },
     {
       "Path": "mods/bettercombat-neoforge-2.3.2\u002B1.21.1.jar",
@@ -581,14 +581,9 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/citadel-1.21.1-2.7.6.jar"
     },
     {
-      "Path": "mods/citadel-2.7.0-1.21.1.jar",
-      "Hash": "4565267974f0b6b0dd08fedf814a9b38",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/citadel-2.7.0-1.21.1.jar"
-    },
-    {
-      "Path": "mods/clientsort-neoforge-2.1.6\u002B1.21.1.jar",
-      "Hash": "88765837c55ad55e639ca94d8dcabbc2",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/clientsort-neoforge-2.1.6%2B1.21.1.jar"
+      "Path": "mods/clientsort-neoforge-2.2.2\u002B1.21.1.jar",
+      "Hash": "5a55e75ade402919e04dbbe7b3ddb729",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/clientsort-neoforge-2.2.2%2B1.21.1.jar"
     },
     {
       "Path": "mods/cloth-config-15.0.140-neoforge.jar",
@@ -611,19 +606,14 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/corpse-neoforge-1.21.1-1.1.13.jar"
     },
     {
-      "Path": "mods/cpa-5.8.2\u002B1.21.1-neoforge.jar.disabled",
-      "Hash": "e1e955dd13b6ed1e6ce8a597b10b1331",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/cpa-5.8.2%2B1.21.1-neoforge.jar.disabled"
+      "Path": "mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "Hash": "610093f21cea33b34f911bca97aa294f",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar"
     },
     {
-      "Path": "mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar",
-      "Hash": "294370b4063e84654bc9c662a33b6a5b",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/CreativeCore_NEOFORGE_v2.13.38_mc1.21.1.jar"
-    },
-    {
-      "Path": "mods/cristellib-neoforge-1.21.1-3.1.5.jar",
-      "Hash": "d4a65b89c6e122831d8c76e9b4780ef4",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/cristellib-neoforge-1.21.1-3.1.5.jar"
+      "Path": "mods/cristellib-neoforge-1.21.1-3.1.7.jar",
+      "Hash": "6433ae895a143e145165e97beea07077",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/cristellib-neoforge-1.21.1-3.1.7.jar"
     },
     {
       "Path": "mods/curios-neoforge-9.5.1\u002B1.21.1.jar",
@@ -656,9 +646,19 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
     },
     {
-      "Path": "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
-      "Hash": "88831a176ed788b91d9c881a70a86902",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/entityculling-neoforge-1.10.2-mc1.21.1.jar"
+      "Path": "mods/entityculling-neoforge-1.10.3-mc1.21.1.jar",
+      "Hash": "5a241d50b5ffb0133a9918ffdd71d72a",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/entityculling-neoforge-1.10.3-mc1.21.1.jar"
+    },
+    {
+      "Path": "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+      "Hash": "b7f1c8a4f16281fa69b9e09e8154544b",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/entity_model_features-3.2.4-1.21-neoforge.jar"
+    },
+    {
+      "Path": "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+      "Hash": "07c98cc3e76f514eee3adee43d05dae9",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/entity_texture_features_1.21-neoforge-7.1.jar"
     },
     {
       "Path": "mods/epic-knights-1.21.1-neoforge-10.12.jar",
@@ -751,9 +751,9 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
     },
     {
-      "Path": "mods/irons_lib-1.21.1-1.0.2.jar",
-      "Hash": "e721286ef6096e6789252c208c8d333e",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/irons_lib-1.21.1-1.0.2.jar"
+      "Path": "mods/irons_lib-1.21.1-1.1.0.jar",
+      "Hash": "a250c02914fd70fdc31cafae856417d6",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/irons_lib-1.21.1-1.1.0.jar"
     },
     {
       "Path": "mods/irons_spellbooks-1.21.1-3.16.0-patched.jar",
@@ -786,9 +786,9 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/libraryferret-neoforge-1.21.1-4.0.0.jar"
     },
     {
-      "Path": "mods/lionfishapi-3.0-beta.jar",
-      "Hash": "f8c02db5653a4023e30e09d7b4b4b2db",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/lionfishapi-3.0-beta.jar"
+      "Path": "mods/lionfishapi-3.0.jar",
+      "Hash": "f89eba58b8ac15be1971e1c40c0bb019",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/lionfishapi-3.0.jar"
     },
     {
       "Path": "mods/lithium-neoforge-0.15.3\u002Bmc1.21.1.jar",
@@ -796,9 +796,9 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/lithium-neoforge-0.15.3%2Bmc1.21.1.jar"
     },
     {
-      "Path": "mods/lithostitched-1.7.7-neoforge-21.1.jar",
-      "Hash": "0435f9701e7be16201ce917376227f3a",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/lithostitched-1.7.7-neoforge-21.1.jar"
+      "Path": "mods/lithostitched-1.7.9-neoforge-21.1.jar",
+      "Hash": "0914c61c06a451f9bd5236aee3a38ce2",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/lithostitched-1.7.9-neoforge-21.1.jar"
     },
     {
       "Path": "mods/lootr-neoforge-1.21.1-1.11.37.120.jar",
@@ -806,9 +806,9 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/lootr-neoforge-1.21.1-1.11.37.120.jar"
     },
     {
-      "Path": "mods/L_Ender\u0027s Cataclysm 1.21.1-3.29.jar",
-      "Hash": "f9bea35420c15fae132eef6a5916275e",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/L_Ender%27s%20Cataclysm%201.21.1-3.29.jar"
+      "Path": "mods/L_Ender\u0027s Cataclysm 1.21.1-3.31.jar",
+      "Hash": "5150d0ede90631f7806d0b18d279cf03",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/L_Ender%27s%20Cataclysm%201.21.1-3.31.jar"
     },
     {
       "Path": "mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
@@ -851,14 +851,19 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/minecraft-cursor-neoforge-3.11.3%2B1.21.1.jar"
     },
     {
-      "Path": "mods/modernfix-neoforge-5.27.11\u002Bmc1.21.1.jar",
-      "Hash": "fee4cdc10341ae1162f81bdce784cdd7",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/modernfix-neoforge-5.27.11%2Bmc1.21.1.jar"
+      "Path": "mods/modernfix-neoforge-5.27.14\u002Bmc1.21.1.jar",
+      "Hash": "29a4f5a367e671d08c0c7e2ec75b2224",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/modernfix-neoforge-5.27.14%2Bmc1.21.1.jar"
     },
     {
-      "Path": "mods/moonlight-neoforge-1.21.1-3.0.14.jar",
-      "Hash": "327e5fce7692cc28c67390fcf9bd9d97",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/moonlight-neoforge-1.21.1-3.0.14.jar"
+      "Path": "mods/monolib-neoforge-1.21.1-4.0.2.jar",
+      "Hash": "b26dd2adeb9e0987fc61d3f30eb1a5fc",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/monolib-neoforge-1.21.1-4.0.2.jar"
+    },
+    {
+      "Path": "mods/moonlight-neoforge-1.21.1-3.0.18.jar",
+      "Hash": "c24d3067bced9c8e2eca444f506392db",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/moonlight-neoforge-1.21.1-3.0.18.jar"
     },
     {
       "Path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
@@ -871,6 +876,11 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/NaturesAura-41.9.jar"
     },
     {
+      "Path": "mods/new_slab_variants-merged-1.21.1-3.0.1.jar",
+      "Hash": "c0924b13de1feb34dd29db5be681cccb",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/new_slab_variants-merged-1.21.1-3.0.1.jar"
+    },
+    {
       "Path": "mods/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
       "Hash": "943c6162c7e78df7eee9edbc7d1eceb1",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar"
@@ -881,9 +891,9 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/OctoLib-NEOFORGE-0.6.2%2B1.21.jar"
     },
     {
-      "Path": "mods/particular-1.21.1-NeoForge-1.1.7.jar",
-      "Hash": "c6dfdb944d0b621d574aaaa1f8325098",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/particular-1.21.1-NeoForge-1.1.7.jar"
+      "Path": "mods/particular-1.21.1-NeoForge-1.5.4.jar",
+      "Hash": "d42788545882832e97a354967269df43",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/particular-1.21.1-NeoForge-1.5.4.jar"
     },
     {
       "Path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
@@ -926,11 +936,6 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/saintsdragons-1.20.1-0.6.1-neoforge-alpha-hotfix.jar"
     },
     {
-      "Path": "mods/ScorchedGuns-1.4.4.1.jar",
-      "Hash": "2db0c1537de9f2a4a479c0032b739ed7",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/ScorchedGuns-1.4.4.1.jar"
-    },
-    {
       "Path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
       "Hash": "0a0a8665bb4d77e3f8139750cb98d9e4",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/Searchables-neoforge-1.21.1-1.0.2.jar"
@@ -949,11 +954,6 @@
       "Path": "mods/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
       "Hash": "d8640bfde4a3591868175c38c6ef36ec",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar"
-    },
-    {
-      "Path": "mods/smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
-      "Hash": "5ff0455c59b267bd19a308ba9995a694",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/smallships-neoforge-1.21.1-2.0.0-b2.1.jar"
     },
     {
       "Path": "mods/sodium-neoforge-0.6.13\u002Bmc1.21.1.jar",
@@ -981,11 +981,6 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar"
     },
     {
-      "Path": "mods/supplementaries-neoforge-1.21.1-3.6.5.jar",
-      "Hash": "a946e482d5903d4b642c6d5e12659673",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/supplementaries-neoforge-1.21.1-3.6.5.jar"
-    },
-    {
       "Path": "mods/tectonic-3.0.22-neoforge-21.1.jar",
       "Hash": "b0659af9b55f8aff56aa7f77d7d9709f",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/tectonic-3.0.22-neoforge-21.1.jar"
@@ -996,9 +991,9 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
     },
     {
-      "Path": "mods/Terralith_1.21.x_v2.5.8.jar",
-      "Hash": "93dd6c7f8824e531fedaf37fd23f5c99",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/Terralith_1.21.x_v2.5.8.jar"
+      "Path": "mods/Terralith_1.21.x_v2.6.2.jar",
+      "Hash": "d55b018bc4038a08d7a409800994aa63",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/Terralith_1.21.x_v2.6.2.jar"
     },
     {
       "Path": "mods/travelersbackpack-neoforge-1.21.1-10.1.36.jar",
@@ -1036,14 +1031,19 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
     },
     {
-      "Path": "mods/xaerominimap-neoforge-1.21.1-25.3.13.jar",
-      "Hash": "093968855bab5ccea048eb2e7519de03",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/xaerominimap-neoforge-1.21.1-25.3.13.jar"
+      "Path": "mods/xaerominimap-neoforge-1.21.1-26.1.0.jar",
+      "Hash": "7a16e984052424ebf78f50283bca73e5",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/xaerominimap-neoforge-1.21.1-26.1.0.jar"
     },
     {
-      "Path": "mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
-      "Hash": "0b76c5c6d2e7598a801f159844f7bfab",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar"
+      "Path": "mods/xaeroworldmap-neoforge-1.21.1-1.41.0.jar",
+      "Hash": "244cfe965549b43587a2a1304dd630b7",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/xaeroworldmap-neoforge-1.21.1-1.41.0.jar"
+    },
+    {
+      "Path": "resourcepacks/FA\u002BPlayer-v1.1.zip",
+      "Hash": "8b7d38c1f46a1152e240cb91a95abf1a",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/resourcepacks/FA%2BPlayer-v1.1.zip"
     },
     {
       "Path": "config/alexscaves_biome_generation/.version",
@@ -1824,6 +1824,51 @@
       "Path": "config/WildfireGender/client.toml",
       "Hash": "e46b566d4ca130ef8488c6f0ef4c4019",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/WildfireGender/client.toml"
+    },
+    {
+      "Path": "global_packs/required_resources/armory-conglomery-v2.2.zip",
+      "Hash": "6a6ba9091874accca2d1a51b0e9b0d9c",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/armory-conglomery-v2.2.zip"
+    },
+    {
+      "Path": "global_packs/required_resources/Clear Glass Pack 1.21.zip",
+      "Hash": "1abc107578a2ce8c786ef25db7759a44",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/Clear%20Glass%20Pack%201.21.zip"
+    },
+    {
+      "Path": "global_packs/required_resources/creepers-refreshed-fa-v1.0.zip",
+      "Hash": "fe410bf53356e61d86dda5b8413b14fc",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/creepers-refreshed-fa-v1.0.zip"
+    },
+    {
+      "Path": "global_packs/required_resources/Ender_Dragon_Reborn-1.0.zip",
+      "Hash": "73951c5eb92e6b74137dc75999584286",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/Ender_Dragon_Reborn-1.0.zip"
+    },
+    {
+      "Path": "global_packs/required_resources/FreshAnimations_v1.10.4.zip",
+      "Hash": "ab0e8cc3444e98f0fd51ac0d84533d52",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/FreshAnimations_v1.10.4.zip"
+    },
+    {
+      "Path": "global_packs/required_resources/Glowing_Golden_Apples_v120.zip",
+      "Hash": "b4ade89160c055db30b1e07af1a9f51f",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/Glowing_Golden_Apples_v120.zip"
+    },
+    {
+      "Path": "global_packs/required_resources/Gray\u0027s Monster Overhaul v1.0 1.19-1.21.zip",
+      "Hash": "e730804fda2748bc012415f43d5bb503",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/Gray%27s%20Monster%20Overhaul%20v1.0%201.19-1.21.zip"
+    },
+    {
+      "Path": "global_packs/required_resources/MandalasGUI\u002BDakmode_1.21.8_v2.5.zip",
+      "Hash": "e35134b9fda215c0b3bfcf950ab92d95",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/MandalasGUI%2BDakmode_1.21.8_v2.5.zip"
+    },
+    {
+      "Path": "global_packs/required_resources/RefinedCats_v3.0.3.zip",
+      "Hash": "5431ac0f41a3b3d8e78855fe4ec99c85",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/global_packs/required_resources/RefinedCats_v3.0.3.zip"
     },
     {
       "Path": "versions/neoforge-21.1.233/neoforge-21.1.233.jar",
