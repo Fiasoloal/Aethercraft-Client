@@ -1861,11 +1861,6 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/crafting_on_a_stick-1.21.0.4.jar"
     },
     {
-      "Path": "mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
-      "Hash": "8a47bd785c15d40f6caad22a5af820ca",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar"
-    },
-    {
       "Path": "mods/crashutilities-9.0.4.jar",
       "Hash": "8a6dd8e1ebe0e5e8acf3bd377f98361c",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/crashutilities-9.0.4.jar"
@@ -2359,6 +2354,11 @@
       "Path": "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
       "Hash": "3c28fc81aa5a9be514905e6c88e02d6d",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+    },
+    {
+      "Path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "Hash": "6e77d08299ea1ec7756a299263bc469b",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
     },
     {
       "Path": "mods/kotlinforforge-5.11.0-all.jar",
