@@ -2111,16 +2111,6 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/enderio/modded-conduits-common.toml"
     },
     {
-      "Path": "config/euphoria_patcher/.data.json",
-      "Hash": "b941883b1a10b4899649d1d71ca8a88a",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/euphoria_patcher/.data.json"
-    },
-    {
-      "Path": "config/euphoria_patcher/settings.toml",
-      "Hash": "2bdc0b54db0696ea62b561ec800fbc5c",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/euphoria_patcher/settings.toml"
-    },
-    {
       "Path": "config/extremereactors/client.toml",
       "Hash": "28c9e150225755b35e15c2770651bd2d",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/extremereactors/client.toml"
