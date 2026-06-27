@@ -48,6 +48,14 @@
 			x: 1.5d
 			y: 2.5d
 		}
+		{
+			height: 1.6d
+			image: "aethercraft:textures/quests/credit.png"
+			rotation: 0.0d
+			width: 7.6d
+			x: 0.0d
+			y: 4.6d
+		}
 	]
 	order_index: 0
 	quest_links: [ ]
