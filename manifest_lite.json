@@ -592,7 +592,7 @@
     },
     {
       "Path": "config/ftblibrary-client.snbt",
-      "Hash": "0ecaec2ec193082d64623ed007e54a20",
+      "Hash": "02e267e9efdadd0148457d0e946bf298",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/ftblibrary-client.snbt"
     },
     {
@@ -1566,6 +1566,11 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/resourcepacks/VannillaTweaks_BushyLeaves.zip"
     },
     {
+      "Path": "_removed_mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "Hash": "6e77d08299ea1ec7756a299263bc469b",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/_removed_mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
+    },
+    {
       "Path": "config/almostunified/.gitignore",
       "Hash": "b9af26a02fcc7e3959cfbf5c6869bf0e",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/almostunified/.gitignore"
@@ -2119,41 +2124,6 @@
       "Path": "config/extremereactors/common.toml",
       "Hash": "374268b04a9384e98ac7e58f5caabecb",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/extremereactors/common.toml"
-    },
-    {
-      "Path": "config/fancymenu/audio_element_controller_metas.json",
-      "Hash": "a9265323131588199c3c432188bd9b2b",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/audio_element_controller_metas.json"
-    },
-    {
-      "Path": "config/fancymenu/customizablemenus.txt",
-      "Hash": "497d66acff8dfde046c2922d1fef1ec2",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/customizablemenus.txt"
-    },
-    {
-      "Path": "config/fancymenu/custom_gui_screens.txt",
-      "Hash": "106e52948415f0879c53304f50783b28",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/custom_gui_screens.txt"
-    },
-    {
-      "Path": "config/fancymenu/dragger_metas.json",
-      "Hash": "d41d8cd98f00b204e9800998ecf8427e",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/dragger_metas.json"
-    },
-    {
-      "Path": "config/fancymenu/legacy_checklist.txt",
-      "Hash": "bc03e01c4f1bf1e24e9b86591baa512b",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/legacy_checklist.txt"
-    },
-    {
-      "Path": "config/fancymenu/options.txt",
-      "Hash": "07a1ebb450b08741d5b9a8d61860ada7",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/options.txt"
-    },
-    {
-      "Path": "config/fancymenu/user_variables.db",
-      "Hash": "458e4f3f673e3fea22fb92bf76fcf912",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/user_variables.db"
     },
     {
       "Path": "config/ftbmaterials/generation.snbt",
@@ -7146,96 +7116,6 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/extendedcrafting/singularities/tin.json"
     },
     {
-      "Path": "config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-      "Hash": "3520f3badbfdbda6998e6c114aa3d28a",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-    },
-    {
-      "Path": "config/fancymenu/customization/title_screen_buttons_4.txt",
-      "Hash": "cf8beeee46c61426ee50257c86e981cf",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/customization/title_screen_buttons_4.txt"
-    },
-    {
-      "Path": "config/fancymenu/customization/title_screen_buttons_5.txt",
-      "Hash": "af54854b87cfde57987ca4b3282b9d7b",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/customization/title_screen_buttons_5.txt"
-    },
-    {
-      "Path": "config/fancymenu/customization/title_screen_buttons_6.txt",
-      "Hash": "d8e589b18c0b2b3c08009574f0c1d99f",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/customization/title_screen_buttons_6.txt"
-    },
-    {
-      "Path": "config/fancymenu/customization/title_screen_cnbuttons_5.txt",
-      "Hash": "e3ea69292299b744b95649b6c4693362",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/customization/title_screen_cnbuttons_5.txt"
-    },
-    {
-      "Path": "config/fancymenu/customization/title_screen_layout_day.txt",
-      "Hash": "06d5c4940f240b854b3e42a00ca920b1",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/customization/title_screen_layout_day.txt"
-    },
-    {
-      "Path": "config/fancymenu/customization/title_screen_layout_night.txt",
-      "Hash": "cfe27061a36c0f3c13ff908e7f8248a0",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/customization/title_screen_layout_night.txt"
-    },
-    {
-      "Path": "config/fancymenu/customization/universal_layout_music.txt",
-      "Hash": "1f5c3ae67900c27d4a56bcd8922b3c34",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/customization/universal_layout_music.txt"
-    },
-    {
-      "Path": "config/fancymenu/customization/vanilla.txt",
-      "Hash": "014ef1ca22817a64de40c397e9bc5600",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/customization/vanilla.txt"
-    },
-    {
-      "Path": "config/fancymenu/ui_themes/cherry_blossom.json",
-      "Hash": "90e358ee1c6bbd1d17bbcdad0a504f3d",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/ui_themes/cherry_blossom.json"
-    },
-    {
-      "Path": "config/fancymenu/ui_themes/cozy_campfire.json",
-      "Hash": "02b0cd78a482dbd7ec793e123f4c007b",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/ui_themes/cozy_campfire.json"
-    },
-    {
-      "Path": "config/fancymenu/ui_themes/dark.json",
-      "Hash": "cbf30e731636c918d598f1ad9b0ea371",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/ui_themes/dark.json"
-    },
-    {
-      "Path": "config/fancymenu/ui_themes/dark_high_contrast.json",
-      "Hash": "4b532a7a5c5ecd839e55a3c083c8bca3",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/ui_themes/dark_high_contrast.json"
-    },
-    {
-      "Path": "config/fancymenu/ui_themes/light.json",
-      "Hash": "f3980d6eed1064c36d794d7b1030fd06",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/ui_themes/light.json"
-    },
-    {
-      "Path": "config/fancymenu/ui_themes/light_high_contrast.json",
-      "Hash": "700ff9cd0e95ac2234e0494af729226a",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/ui_themes/light_high_contrast.json"
-    },
-    {
-      "Path": "config/fancymenu/ui_themes/pumpkin_soup.json",
-      "Hash": "d322c4bde872420ddeb2eaa124d0f16a",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/ui_themes/pumpkin_soup.json"
-    },
-    {
-      "Path": "config/fancymenu/ui_themes/purple_void.json",
-      "Hash": "79df3b7ab7a74d55e3f5bb70cd996dea",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/ui_themes/purple_void.json"
-    },
-    {
-      "Path": "config/fancymenu/ui_themes/spooky_season.json",
-      "Hash": "c45cc6e6bd9c4a296227e764dcf1e953",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/ui_themes/spooky_season.json"
-    },
-    {
       "Path": "config/ftbquests/quests/chapter_groups.snbt",
       "Hash": "fbf454a400a6089f0a97c15bfd81ee1a",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/ftbquests/quests/chapter_groups.snbt"
@@ -7849,201 +7729,6 @@
       "Path": "config/crash_assistant/scripts/startup/example.jexl",
       "Hash": "7bc04801fe44ae6e88169008c453b820",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/crash_assistant/scripts/startup/example.jexl"
-    },
-    {
-      "Path": "config/fancymenu/assets/audio/mysticdepths.ogg",
-      "Hash": "cbbb2cc486045663fc496d8562a5cc05",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/audio/mysticdepths.ogg"
-    },
-    {
-      "Path": "config/fancymenu/assets/backgrounds/header_day.png",
-      "Hash": "80edc3c2aadd116eb7ee3e798d42ef42",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/backgrounds/header_day.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/backgrounds/header_night.png",
-      "Hash": "e771e53df170783ca1bdee3d310b3dc5",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/backgrounds/header_night.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/backgrounds/oceanblock2_day.png",
-      "Hash": "8a6e9ef7d504c647dfbc5d1d95e4e7ce",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/backgrounds/oceanblock2_day.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/backgrounds/oceanblock2_night.png",
-      "Hash": "44a9dae5cd382e210a1e653dc050347b",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/backgrounds/oceanblock2_night.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_accessibility.png",
-      "Hash": "26909fc6f9560ce2656a4b81835a18ba",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_accessibility.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_accessibility_hover.png",
-      "Hash": "37386f5a705dc350172c100d1f620bc4",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_accessibility_hover.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_auxilium.png",
-      "Hash": "b337293eb3ae69f5d741441fe807d4b2",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_auxilium.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_auxilium_hover.png",
-      "Hash": "77e8bc4ca4f747db98aac23b569594ae",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_auxilium_hover.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_bisect.png",
-      "Hash": "4807b84c370d847ff557406105e8e3bb",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_bisect.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_bisect_hover.png",
-      "Hash": "cb490387aaf7bb759648dc7772bfb9ca",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_bisect_hover.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_discord.png",
-      "Hash": "d40a69aab3af75e3d8bd00cd6bab1f2f",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_discord.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_discord_hover.png",
-      "Hash": "9249ece71b2bd3eb53c58b80c0f9efda",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_discord_hover.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_exit.png",
-      "Hash": "80c085fd7c4d86038d1977d98690c7b2",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_exit.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_exit_hover.png",
-      "Hash": "a3e2332ad4ac26d675be133f989bfb02",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_exit_hover.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_language.png",
-      "Hash": "4f79b5e999f8e9cde8e7e5ed284d60cc",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_language.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_language_hover.png",
-      "Hash": "426738477cba8c2813365f95697c49ff",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_language_hover.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_mods.png",
-      "Hash": "6702dc5318658de3b63c601e21b0a263",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_mods.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_mods_cn.png",
-      "Hash": "6cefdd18ca82659a6980d025717066dd",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_mods_cn.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_mods_hover.png",
-      "Hash": "8c94a8ecfb0d0ef18c9ac19b0d6b98b4",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_mods_hover.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_mods_hover_cn.png",
-      "Hash": "48665ec058ff75f2b18c21f3f0fa477b",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_mods_hover_cn.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_multiplayer.png",
-      "Hash": "86a3309f65d47c540088aac215c99181",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_multiplayer.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_multiplayer_cn.png",
-      "Hash": "93ed2ca83ed14ceeff6cf029a7e48d5f",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_multiplayer_cn.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_multiplayer_hover.png",
-      "Hash": "0dad464e81bbf0d76dadbab6c1c422f4",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_multiplayer_hover.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_multiplayer_hover_cn.png",
-      "Hash": "5480891e77f8e2ba932bdda36aa0ac9d",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_multiplayer_hover_cn.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_options.png",
-      "Hash": "fd8f8f8cc7911b38f2c70fa7166c8839",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_options.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_options_cn.png",
-      "Hash": "16210eb39b52b16b9a1ac23a2270e122",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_options_cn.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_options_hover.png",
-      "Hash": "678f1825c8e1aec5d46027a895b893e9",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_options_hover.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_options_hover_cn.png",
-      "Hash": "59eab76fde55d911613e86ca12bb9613",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_options_hover_cn.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_singleplayer.png",
-      "Hash": "392fbeef0c61fd6a6bcf646609bccd83",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_singleplayer.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_singleplayer_cn.png",
-      "Hash": "f3367a5b41dcdd7d80a2d138ddbb8f44",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_singleplayer_cn.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_singleplayer_hover.png",
-      "Hash": "6574b4367e91ed0f865d37fc62ea7864",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_singleplayer_hover.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_singleplayer_hover_cn.png",
-      "Hash": "a04f310c24ac979a8faefb4c2760759c",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_singleplayer_hover_cn.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_worlds.png",
-      "Hash": "10f6d2167df70545263d8603ff328f72",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_worlds.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/buttons/oceanblock2_worlds_hover.png",
-      "Hash": "8de74199840d80fc7cb02bd5b947dd32",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/buttons/oceanblock2_worlds_hover.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/icons/16x16.png",
-      "Hash": "1cfa0cb7ab7e941a7b4cfc57cfb25190",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/icons/16x16.png"
-    },
-    {
-      "Path": "config/fancymenu/assets/icons/32x32.icns",
-      "Hash": "bb0ac46fad0c745e77f7e93ee94cc551",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/icons/32x32.icns"
-    },
-    {
-      "Path": "config/fancymenu/assets/icons/32x32.png",
-      "Hash": "3ee2c84b56339abc68316f3739a4e3e9",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/assets/icons/32x32.png"
-    },
-    {
-      "Path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-      "Hash": "0833a0af8b083c588ba111b485551164",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
     },
     {
       "Path": "config/ftbquests/quests/chapters/actually_additions.snbt",
