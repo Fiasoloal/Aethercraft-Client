@@ -92,6 +92,8 @@ ServerEvents.commandRegistry((event) => {
     )
   );
 
+  // Disabled by Aethercraft: pack's /spawn and /lobby (sent players to FTB Team Bases lobby).
+  /*
   event.register(
     Commands.literal("spawn")
       .executes(function (ctx) {
@@ -107,6 +109,7 @@ ServerEvents.commandRegistry((event) => {
         return 1;
       })
   );
+  */
 
   event.register(
     Commands.literal("ftbrifthelper")
