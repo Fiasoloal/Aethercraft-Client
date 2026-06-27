@@ -2346,6 +2346,11 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
     },
     {
+      "Path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "Hash": "6e77d08299ea1ec7756a299263bc469b",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
+    },
+    {
       "Path": "mods/kotlinforforge-5.11.0-all.jar",
       "Hash": "ad515a1a34f47bbc17aabab0b99ecee4",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/kotlinforforge-5.11.0-all.jar"
@@ -3064,11 +3069,6 @@
       "Path": "resourcepacks/VannillaTweaks_BushyLeaves.zip",
       "Hash": "e7627b4f87a744ec01440ab717051789",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/resourcepacks/VannillaTweaks_BushyLeaves.zip"
-    },
-    {
-      "Path": "_removed_mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
-      "Hash": "6e77d08299ea1ec7756a299263bc469b",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/_removed_mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
     },
     {
       "Path": "config/almostunified/.gitignore",

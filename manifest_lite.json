@@ -1566,11 +1566,6 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/resourcepacks/VannillaTweaks_BushyLeaves.zip"
     },
     {
-      "Path": "_removed_mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
-      "Hash": "6e77d08299ea1ec7756a299263bc469b",
-      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/_removed_mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
-    },
-    {
       "Path": "config/almostunified/.gitignore",
       "Hash": "b9af26a02fcc7e3959cfbf5c6869bf0e",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/config/almostunified/.gitignore"
