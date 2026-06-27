@@ -8349,6 +8349,9 @@
         "&6Oceanblock 2&r以任务线为引导，它将带领你前往海洋的最深处。"
         ""
         "起初你会出生在&a大厅&r！穿过传送门以选择你的初始船只，然后就可以开始你的旅行了。"
+        ""
+        "&8&m                                        &r"
+        "&8&o本整合包为 Feed The Beast 团队的官方 &6FTB OceanBlock 2&8，取自 FTB 官方网站。整合包的所有权利归 &6FTB&8 所有 - feed-the-beast.com&r"
     ]
     quest.2DAA24C99CAB703D.quest_desc:[
         "&a/sethome&r - 设置一个&e家&r标记点用于快速传送。低于危险深度时不可用。"
