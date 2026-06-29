@@ -1861,6 +1861,11 @@
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/crashutilities-9.0.4.jar"
     },
     {
+      "Path": "mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "Hash": "610093f21cea33b34f911bca97aa294f",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar"
+    },
+    {
       "Path": "mods/cropsneedwater-2.2.0.jar",
       "Hash": "277875791110e38ab87d2ae6e0c721e8",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/cropsneedwater-2.2.0.jar"
@@ -2969,6 +2974,26 @@
       "Path": "mods/utilitarian-1.21.1-0.19.2.jar",
       "Hash": "93bd0b9e483c06d927beae452e4e1c31",
       "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/utilitarian-1.21.1-0.19.2.jar"
+    },
+    {
+      "Path": "mods/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
+      "Hash": "5b139b7dce0909359a3dac75cbe5e309",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar"
+    },
+    {
+      "Path": "mods/watermedia-2.1.37.jar",
+      "Hash": "4a09ad3ea22ad258802605b8aa929bbd",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/watermedia-2.1.37.jar"
+    },
+    {
+      "Path": "mods/watermedia_youtube_plugin-2.1.2.jar",
+      "Hash": "5b0ed7502f1d3c0553e6d536d5a74d4a",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/watermedia_youtube_plugin-2.1.2.jar"
+    },
+    {
+      "Path": "mods/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
+      "Hash": "6a7764a7e80bc1154a49dca513183cac",
+      "Url": "https://raw.githubusercontent.com/Fiasoloal/Aethercraft-Client/main/mods/watervision-NF-mc1.21.1-v0.1.0-alpha.jar"
     },
     {
       "Path": "mods/watut-neoforge-1.21.0-1.2.7.jar",
